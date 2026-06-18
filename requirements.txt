@@ -1,6 +1,7 @@
-streamlit>=1.30.0
-folium>=0.15.0
-streamlit-folium>=0.18.0
-earthengine-api>=0.1.380
-reportlab>=4.0.0
-pandas>=2.0.0
+streamlit
+folium
+streamlit-folium
+earthengine-api
+pandas
+geopy
+reportlab
