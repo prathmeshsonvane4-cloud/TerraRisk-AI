@@ -6,11 +6,6 @@ import streamlit as st
 import folium
 from streamlit_folium import st_folium
 import ee
-# ... (बाकीचा तुमचा जुना कोड जसाच्या तसा खाली राहू द्या)
-import streamlit as st
-import folium
-from streamlit_folium import st_folium
-import ee
 import io
 import pandas as pd
 from reportlab.lib.pagesizes import letter
@@ -25,14 +20,25 @@ st.set_page_config(
     layout="wide"
 )
 
-# 2. Initialize Google Earth Engine (Using your registered project ID)
+# 2. Initialize Google Earth Engine using Streamlit Saved Secrets
 PROJECT_ID = 'geoai-flood-analytics'
+
 @st.cache_resource
 def init_ee():
     try:
-        ee.Initialize(project=PROJECT_ID)
+        import json
+        # Streamlit Secrets मधून सेव्ह केलेली चावी लोड करणे
+        secret_creds = json.loads(st.secrets["gcp"]["service_account"])
+        
+        # गुगल अर्थ इंजिन ऑथेंटिकेशन ट्रिगर करणे
+        credentials = ee.ServiceAccountCredentials(
+            secret_creds['client_email'], 
+            key_data=json.dumps(secret_creds)
+        )
+        ee.Initialize(credentials, project=PROJECT_ID)
         return True
     except Exception as e:
+        st.sidebar.warning(f"GEE Diagnostic Trace: {e}")
         return False
 
 ee_connected = init_ee()
@@ -57,7 +63,7 @@ else:
     st.sidebar.success("⚡ GEE Cloud Server: Connected")
 
 # ==============================================================================
-# REPORTLAB PDF GENERATOR FUNCTION (Integrated from Colab)
+# REPORTLAB PDF GENERATOR FUNCTION
 # ==============================================================================
 def generate_pdf_report(role_type, area_sqkm=17.24):
     buffer = io.BytesIO()
@@ -124,7 +130,7 @@ with col1:
     st.markdown("### 🗺️ Step 1: Locate the Farm Boundary / परिसर निवडा")
     st.write("Use the box draw tool or rectangle on the map below to isolate your boundary.")
     
-    # Center map around Latur city coordinates from your notebook configuration
+    # Center map around Latur city coordinates
     m = folium.Map(location=[18.4088, 76.5604], zoom_start=11, control_scale=True)
     
     # Add Google Satellite Hybrid baseline
@@ -185,7 +191,7 @@ with col2:
                 
         else:
             st.success("शेतकरी बंधू, तुमच्या जमिनीचा रिमोट सेन्सिंग अहवाल तयार आहे.")
-            st.write("जलसाठा निर्देशांक (Water Index): **उत्तम (Optimal)**")
+            st.write("जलसाठा निर्देशांक (Water Index): **उत्тем (Optimal)**")
             
             pdf_data = generate_pdf_report("Progressive Farmer Profile")
             st.download_button(
