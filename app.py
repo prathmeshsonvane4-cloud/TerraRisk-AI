@@ -1,3 +1,12 @@
+import os
+# सर्व्हरला बळजबरीने लायब्ररीज इन्स्टॉल करायला लावणारा ऑटो-इंजिन कोड
+os.system("pip install folium streamlit-folium reportlab earthengine-api pandas")
+
+import streamlit as st
+import folium
+from streamlit_folium import st_folium
+import ee
+# ... (बाकीचा तुमचा जुना कोड जसाच्या तसा खाली राहू द्या)
 import streamlit as st
 import folium
 from streamlit_folium import st_folium
