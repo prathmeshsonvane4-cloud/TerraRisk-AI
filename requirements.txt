@@ -1,7 +1,7 @@
 streamlit
-folium
 streamlit-folium
-earthengine-api
-pandas
-geopy
+folium
+earth-engine-api
+geopandas
+rioxarray
 reportlab
