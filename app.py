@@ -159,3 +159,25 @@ Geospatial Extent: {json.dumps(coordinates[:2])}...
         टेरารिस्क-एआय: सॅटेलाइट जोखीम मूल्यांकन अहवाल
 ======================================================
 अहवाल दिनांक: {report_date}
+विश्लेषण क्षेत्र: नकाशावर निवडलेला पॉलिगॉन क्षेत्र (लातूर जिल्हा)
+
+[भू-स्थानिक एआय सॅटेलाइट विश्लेषण डेटा]
+१. पूर जोखीम निर्देशांक: {results['flood_index']}
+२. सॅटेलाइट बॅकस्कॅटर मूल्य (SAR VV dB): {results['vv_db']}
+३. जोखीम वर्गीकरण श्रेणी: {results['risk_mr']}
+४. एआय तांत्रिक शिफारस: पायाभूत सुविधा व बँक मंजुरीसाठी सुरक्षित प्रदेश.
+======================================================
+"""
+                
+                full_report = en_report + "\n\n" + mr_report
+                
+                st.subheader("📊 Live Analytics Result Preview")
+                st.text_area("Bilingual Output", full_report, height=400)
+                
+                # Downloadable Text Report
+                st.download_button(
+                    label="📥 Download Official Assessment Report (.txt)",
+                    data=full_report,
+                    file_name=f"TerraRisk_Live_Report_{report_date}.txt",
+                    mime="text/plain"
+                )
