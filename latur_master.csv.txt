@@ -1,0 +1,1009 @@
+Sub-District Name,Village Code,Village Name English,Village Name Local,Village Status
+Ahmadpur,944217,Ahmadpur,अहमदपूर,Inhabitant
+Ahmadpur,560390,Ajani Kh,अजनी खुर्द,Inhabitant
+Ahmadpur,560392,Ambegaon,आंबेगाव,Inhabitant
+Ahmadpur,560447,Anandwadi,आनंदवाडी,Inhabitant
+Ahmadpur,560416,Andori,अंदोरी,Inhabitant
+Ahmadpur,560418,Ashta,आष्टा,Inhabitant
+Ahmadpur,560424,Babhalgaon,बाभळगाव,Inhabitant
+Ahmadpur,560455,Balgavhan,बालगव्हाण,Inhabitant
+Ahmadpur,560454,Bhopala,भोपळा,Inhabitant
+Ahmadpur,560441,Bhutmugli,भूतमुगळी,Inhabitant
+Ahmadpur,560453,Bori,बोरी,Inhabitant
+Ahmadpur,560411,Chalatpur,चलतपूर,Inhabitant
+Ahmadpur,560431,Chandoji,चांदोजी,Inhabitant
+Ahmadpur,560389,Chichondi,चिंचोंडी,Inhabitant
+Ahmadpur,560412,Chikhali,चिखली,Inhabitant
+Ahmadpur,560435,Chobali,चोभळी,Inhabitant
+Ahmadpur,560394,Dahibhatewadi,दहीभातेवाडी,Inhabitant
+Ahmadpur,560458,Dallawadi,दल्लावाडी,Inhabitant
+Ahmadpur,560450,Daradwadi,दरडवाडी,Inhabitant
+Ahmadpur,560398,Dhalegaon,धालेगाव,Inhabitant
+Ahmadpur,560408,Dhanyachiwadi,धान्याचीवाडी,Inhabitant
+Ahmadpur,560436,Dhavalwadi,धवलवाडी,Inhabitant
+Ahmadpur,560445,Dongar शेळकी,डोंगर शेळकी,Inhabitant
+Ahmadpur,560426,Gadwad,गाढवड,Inhabitant
+Ahmadpur,560407,Ganeshवाडी,गणेशवाडी,Inhabitant
+Ahmadpur,560415,Ganjur,गांजूर,Inhabitant
+Ahmadpur,560413,Gavhan,गव्हाण,Inhabitant
+Ahmadpur,560403,Ghadari,घडरी,Inhabitant
+Ahmadpur,560425,Gharani,घरणी,Inhabitant
+Ahmadpur,560432,Govindwadi,गोविंदवाडी,Inhabitant
+Ahmadpur,560423,Gugdal,गुगदळ,Inhabitant
+Ahmadpur,560429,Hagadal,हागदळ,Inhabitant
+Ahmadpur,560442,Hadga,हादगा,Inhabitant
+Ahmadpur,560402,Hanamantwadi,हनमंतवाडी,Inhabitant
+Ahmadpur,560417,Hipperga,हिप्परगा,Inhabitant
+Ahmadpur,560401,Injewadi,इंजेवाडी,Inhabitant
+Ahmadpur,560439,Jamb,जांब,Inhabitant
+Ahmadpur,560459,Kajala,काजळा,Inhabitant
+Ahmadpur,560448,Kakandi,काकंदी,Inhabitant
+Ahmadpur,560414,Kalamnuri,कळमनुरी,Inhabitant
+Ahmadpur,560427,Kale Wadi,काळेवाडी,Inhabitant
+Ahmadpur,560404,Kandgavan,कंदगव्हान,Inhabitant
+Ahmadpur,560395,Kavalwadi,कवळवाडी,Inhabitant
+Ahmadpur,560433,Kendre Wadi,केंद्रेवाडी,Inhabitant
+Ahmadpur,560397,Khadaki,खडकी,Inhabitant
+Ahmadpur,560456,Khandali,खांडळी,Inhabitant
+Ahmadpur,560393,Kharabwadi,खराबवाडी,Inhabitant
+Ahmadpur,560430,Kinikadu,किनीकडू,Inhabitant
+Ahmadpur,560405,Kiniwat,किनीवाट,Inhabitant
+Ahmadpur,560428,Kokanga,कोकणगा,Inhabitant
+Ahmadpur,560440,Kopra,कोपरा,Inhabitant
+Ahmadpur,560437,Kumartha,कुमठा,Inhabitant
+Ahmadpur,560419,Lingadhall,लिंगाधळ,Inhabitant
+Ahmadpur,560451,Mahadevadi,महादेवाचेवाडी,Inhabitant
+Ahmadpur,560444,Majra sh.,मांजरा शेळकी,Inhabitant
+Ahmadpur,560434,Malkapur,मल्कापूर,Inhabitant
+Ahmadpur,560420,Mandva,मांडवा,Inhabitant
+Ahmadpur,560399,Mhasawadi,म्हसावाडी,Inhabitant
+Ahmadpur,560449,Morewadi,मोरेवाडी,Inhabitant
+Ahmadpur,560446,Motegaon,मोटेगाव,Inhabitant
+Ahmadpur,560391,Mulki,मुळकी,Inhabitant
+Ahmadpur,560438,Nandura Kh.,नांदुरा खुर्द,Inhabitant
+Ahmadpur,560409,Palam,पाम,Inhabitant
+Ahmadpur,560422,Pangri,पांगरी,Inhabitant
+Ahmadpur,560406,Parachakadi,परचकडी,Inhabitant
+Ahmadpur,560410,Phulwadi,फुलवाडी,Inhabitant
+Ahmadpur,560457,Rui,रुई,Inhabitant
+Ahmadpur,560396,Sangvi,सांगवी,Inhabitant
+Ahmadpur,560452,Savargaon,सावरगाव,Inhabitant
+Ahmadpur,560421,Sayyadpur,सय्यदपूर,Inhabitant
+Ahmadpur,560400,Shinal,शिनळ,Inhabitant
+Ahmadpur,560443,Shirur T.,शिरूर तांबड,Inhabitant
+Ahmadpur,560460,Sona,सोना,Inhabitant
+Ahmadpur,560461,Sukani,सुकाणी,Inhabitant
+Ahmadpur,560462,Tembhurni,टेंभुर्णी,Inhabitant
+Ahmadpur,560463,Thodga,थोडगा,Inhabitant
+Ahmadpur,560464,Tirthwadi,तीर्थवाडी,Inhabitant
+Ahmadpur,560465,Ujani,उजनी,Inhabitant
+Ahmadpur,560466,Vaiti,वैती,Inhabitant
+Ahmadpur,560467,Waddawadi,वड्डावाडी,Inhabitant
+Ahmadpur,560468,Wagdari,वागदरी,Inhabitant
+Ahmadpur,560469,Waki,वाकी,Inhabitant
+Ausa,560731,Alala,आलाला,Inhabitant
+Ausa,560732,Alni,आळणी,Inhabitant
+Ausa,560733,Ambanagar,अंबानगर,Inhabitant
+Ausa,560734,Andora,अंदोरा,Inhabitant
+Ausa,560735,Apchand,आपचंद,Inhabitant
+Ausa,560736,Ashiv,आशिव,Inhabitant
+Ausa,944218,Ausa,औसा,Inhabitant
+Ausa,560737,Badji,बद्जी,Inhabitant
+Ausa,560738,Belkund,बेलकुंड,Inhabitant
+Ausa,560739,Bhadgaon,भादगाव,Inhabitant
+Ausa,560740,Bhiwoli,भिवोळी,Inhabitant
+Ausa,560741,Bhoki,भोकी,Inhabitant
+Ausa,560742,Bolar,बोरार,Inhabitant
+Ausa,560743,Borgaon,बोरगाव,Inhabitant
+Ausa,560744,Budhoda,बुधोडा,Inhabitant
+Ausa,560745,Chalkha,चाळका,Inhabitant
+Ausa,560746,Chincholi,चिंचोली,Inhabitant
+Ausa,560747,Chikli,चिखली,Inhabitant
+Ausa,560748,Chincholi S.,चिंचोली सो.,Inhabitant
+Ausa,560749,Dapegaon,दापेगाव,Inhabitant
+Ausa,560750,Deogopalवाडी,देवगोपाळवाडी,Inhabitant
+Ausa,560751,Dhanoori,धानुरी,Inhabitant
+Ausa,560752,Duttawadi,दत्तावाडी,Inhabitant
+Ausa,560753,Eksurga,एकसुर्गा,Inhabitant
+Ausa,560754,Fattepur,फत्तेपूर,Inhabitant
+Ausa,560755,Gadhada,गाढवडा,Inhabitant
+Ausa,560756,Ganni,गन्नी,Inhabitant
+Ausa,560757,Gatwadi,गटवाडी,Inhabitant
+Ausa,560758,Gaur,गौंडगाव,Inhabitant
+Ausa,560759,Gharani,घरणी,Inhabitant
+Ausa,560760,Gondri,गोंद्री,Inhabitant
+Ausa,560761,Gubal,गुबाळ,Inhabitant
+Ausa,560762,Haregaon,हरेगाव,Inhabitant
+Ausa,560763,Hasala,हासळा,Inhabitant
+Ausa,560764,Hasangani,हासंगणी,Inhabitant
+Ausa,560765,Hipperga,हिप्परगा,Inhabitant
+Ausa,560766,Hipli,हिपळी,Inhabitant
+Ausa,560767,Holi,होळी,Inhabitant
+Ausa,560768,Huljanti,हुळजंती,Inhabitant
+Ausa,560769,Hutga,हुटगा,Inhabitant
+Ausa,560770,Ibrahampur,इब्राहिमपूर,Inhabitant
+Ausa,560771,Jalni,जाळणी,Inhabitant
+Ausa,560772,Jawali,जवळी,Inhabitant
+Ausa,560773,Jeur,जेऊर,Inhabitant
+Ausa,560774,Kada,काडा,Inhabitant
+Ausa,560775,Kalmat,कळमट,Inhabitant
+Ausa,560776,Karajga,करजगा,Inhabitant
+Ausa,560777,Kalligaon,कल्लीगाव,Inhabitant
+Ausa,560778,Karla,कार्ला,Inhabitant
+Ausa,560779,Karajgaon,करजगाव,Inhabitant
+Ausa,560780,Kesarjawga,केसरजवळगा,Inhabitant
+Ausa,560781,Khadki,खडकी,Inhabitant
+Ausa,560782,Kallikhadki,कल्लीखडकी,Inhabitant
+Ausa,560783,Kharosa,खरोसा,Inhabitant
+Ausa,560784,Killari,किल्लारी,Inhabitant
+Ausa,560785,Kini thot,किनीथोट,Inhabitant
+Ausa,560786,Kini nav,किनीनवा,Inhabitant
+Ausa,560787,Koraali,कोराळी,Inhabitant
+Ausa,560788,Kumtha,कुमठा,Inhabitant
+Ausa,560789,Lakhangaon,लाखणगाव,Inhabitant
+Ausa,560790,Lamjana,लामजना,Inhabitant
+Ausa,560791,Lodga,लोडगा,Inhabitant
+Ausa,560792,Mahanandpur,महानंदपूर,Inhabitant
+Ausa,560793,Malkondji,मळकोंडजी,Inhabitant
+Ausa,560794,Malumbra,मलुंब्रा,Inhabitant
+Ausa,560795,Mangrul,मांगरूळ,Inhabitant
+Ausa,560796,Masurdi,मसूर्डी,Inhabitant
+Ausa,560797,Matola,मातोळा,Inhabitant
+Ausa,560798,Mogadpur,मोगदपूर,Inhabitant
+Ausa,560799,Mugi,मुगी,Inhabitant
+Ausa,560800,Mukatpur,मुकुटपूर,Inhabitant
+Ausa,560801,Mulkhed,मुळखेड,Inhabitant
+Ausa,560802,Nagarsoga,नगरसोगा,Inhabitant
+Ausa,560803,Nandurga,नांदुर्गा,Inhabitant
+Ausa,560804,Nandwadवाडी,नांदवडेवाडी,Inhabitant
+Ausa,560805,Omerga,उमरगा,Inhabitant
+Ausa,560806,Pardhewadi,पारधेवाडी,Inhabitant
+Ausa,560807,Peth,पेठ,Inhabitant
+Ausa,560808,Rajanwadi,राजनवाडी,Inhabitant
+Ausa,560809,Ramegaon,रामेगाव,Inhabitant
+Ausa,560810,Ringni,रिंगणी,Inhabitant
+Ausa,560811,Rudrawadi,रुद्रवाडी,Inhabitant
+Ausa,560812,Sarola,सारोळा,Inhabitant
+Ausa,560813,Satdharwadi,सातधारवाडी,Inhabitant
+Ausa,560814,Selu,शेलू,Inhabitant
+Ausa,560815,Shengav,शेणगाव,Inhabitant
+Ausa,560816,Sindala v.,शिंदाळा वे.,Inhabitant
+Ausa,560817,Sindala l.,शिंदाळा ला.,Inhabitant
+Ausa,560818,Singoli,सिंगोळी,Inhabitant
+Ausa,560819,Sirsal,शिरसाळ,Inhabitant
+Ausa,560820,Somnathpur,सोमनाथपूर,Inhabitant
+Ausa,560821,Sultanpur,सुल्तानपूर,Inhabitant
+Ausa,560822,Taka,ताका,Inhabitant
+Ausa,560823,Tandulja,तांदुळजा,Inhabitant
+Ausa,560824,Tavshi gad,तवशीगड,Inhabitant
+Ausa,560825,Tungi b.,तुंगी बु.,Inhabitant
+Ausa,560826,Tungi kh.,तुंगी खु.,Inhabitant
+Ausa,560827,Uajni,उजनी,Inhabitant
+Ausa,560828,Usturi,उस्तुरी,Inhabitant
+Ausa,560829,Utka,उतका,Inhabitant
+Ausa,560830,Wadhona,वाढोणा,Inhabitant
+Ausa,560831,Wagholi,वाघोली,Inhabitant
+Ausa,560832,Wanji,वांजी,Inhabitant
+Ausa,560833,Warwada,वरवडा,Inhabitant
+Ausa,560834,Yakatpur,याकतपूर,Inhabitant
+Ausa,560835,Yeli,येळी,Inhabitant
+Ausa,560836,Zaavari,झावरी,Inhabitant
+Chakur,560470,Algapur,अळगापूर,Inhabitant
+Chakur,560471,Amgavan,आमगव्हान,Inhabitant
+Chakur,560472,Anandwadi,आनंदवाडी,Inhabitant
+Chakur,560473,Ashta,आष्टा,Inhabitant
+Chakur,560474,Atnoor,अतणूर,Inhabitant
+Chakur,560475,Banegaon,बाणेगाव,Inhabitant
+Chakur,560476,Bhatangali,भातांगली,Inhabitant
+Chakur,560477,Bhavthanवाडी,भवथानवाडी,Inhabitant
+Chakur,560478,Bolarwadi,बोळारवाडी,Inhabitant
+Chakur,560479,Borgavan,बोरगव्हाण,Inhabitant
+Chakur,560480,Brahmawadi,ब्रह्मवाडी,Inhabitant
+Chakur,560481,Chakur,चाकूर,Inhabitant
+Chakur,560482,Chapoli,चपोली,Inhabitant
+Chakur,560483,Chavlewadi,चावळेवाडी,Inhabitant
+Chakur,560484,Chikhalthana,चिखलठाणा,Inhabitant
+Chakur,560485,Dabka,दाबका,Inhabitant
+Chakur,560486,Daithna,दैठणा,Inhabitant
+Chakur,560487,Deonagarवाडी,देवनगरवाडी,Inhabitant
+Chakur,560488,Deowadi,देववाडी,Inhabitant
+Chakur,560489,Dhaga,धागा,Inhabitant
+Chakur,560490,Dongraj,डोंगराज,Inhabitant
+Chakur,560491,Ganjankheda,गांजनखेडा,Inhabitant
+Chakur,560492,Gharani,घरणी,Inhabitant
+Chakur,560493,Gharola,घरोळा,Inhabitant
+Chakur,560494,Gorewadi,गोरेवाडी,Inhabitant
+Chakur,560495,Hanmantwadi,हनमंतवाडी,Inhabitant
+Chakur,560496,Hatkarwadi,हटकरवाडी,Inhabitant
+Chakur,560497,Hipperga,हिप्परगा,Inhabitant
+Chakur,560498,Holi,होळी,Inhabitant
+Chakur,560499,Hanamantwadi,हनमंतवाडी,Inhabitant
+Chakur,560500,Jahangirpur,जहांगीरपूर,Inhabitant
+Chakur,560501,Janwal,जाणवळ,Inhabitant
+Chakur,560502,Kabansangvi,कबनसांगवी,Inhabitant
+Chakur,560503,Kakandi,काकंदी,Inhabitant
+Chakur,560504,Kalga,काळगा,Inhabitant
+Chakur,560505,Kandharpur,कंधारपूर,Inhabitant
+Chakur,560506,Kapoornavadi,कपूरवाडी,Inhabitant
+Chakur,560507,Kari,कारी,Inhabitant
+Chakur,560508,Kasarkheda,कासारखेडा,Inhabitant
+Chakur,560509,Kati,काटी,Inhabitant
+Chakur,560510,Kawalgaon,कवळगाव,Inhabitant
+Chakur,560511,Kendre Wadi,केंद्रेवाडी,Inhabitant
+Chakur,560512,Khalangri,खळंग्री,Inhabitant
+Chakur,560513,Lakkadajawga,लक्कडजवळगा,Inhabitant
+Chakur,560514,Laturwadi,लातूरवाडी,Inhabitant
+Chakur,560515,Limbalwadi,लिंबाळवाडी,Inhabitant
+Chakur,560516,Mahadupur,महादुपूर,Inhabitant
+Chakur,560517,Mahalangi,महालंगी,Inhabitant
+Chakur,560518,Malegaon,मालेगाव,Inhabitant
+Chakur,560519,Mohnal,मोहनळ,Inhabitant
+Chakur,560520,Murambi,मुरंबी,Inhabitant
+Chakur,560521,Nandgaon,नांदगाव,Inhabitant
+Ahmadpur,560438,Nandura Kh.,नांदुरा खुर्द,Inhabitant
+Chakur,560522,Nandura b.,नांदुरा बु.,Inhabitant
+Chakur,560523,Nava,नवा,Inhabitant
+Chakur,560524,Nagdarवाडी,नागदरवाडी,Inhabitant
+Chakur,560525,Naigaon,नायगाव,Inhabitant
+Chakur,560526,Panchincholi,पानचिंचोली,Inhabitant
+Chakur,560527,Pargaon,पारगाव,Inhabitant
+Chakur,560528,Patoda,पाटोदा,Inhabitant
+Chakur,560529,Patoda r,पाटोदा (रा), Inhabitant
+Chakur,560530,Raajewadi,राजेवाडी,Inhabitant
+Chakur,560531,Ramegaon,रामेगाव,Inhabitant
+Chakur,560532,Rana,राणा,Inhabitant
+Chakur,560533,Rawankola,रावणकोळा,Inhabitant
+Chakur,560534,Rohanwadi,रोहणवाडी,Inhabitant
+Chakur,560535,Rui,रुई,Inhabitant
+Chakur,560536,Sangvi,सांगवी,Inhabitant
+Chakur,560537,Sankral,सांकराळ,Inhabitant
+Chakur,560538,Sawargaon,सावरगाव,Inhabitant
+Chakur,560539,Shandol,शेंदोळ,Inhabitant
+Chakur,560540,Shelgaon,शेलगाव,Inhabitant
+Chakur,560541,Shirnal,शिरनाळ,Inhabitant
+Chakur,560542,Shivankhed m,शिवाणखेड मै,Inhabitant
+Chakur,560543,Sugav,सुगाव,Inhabitant
+Chakur,560544,Takalgaon,टाकळगाव,Inhabitant
+Chakur,560545,Tandulwadi,तांदुळवाडी,Inhabitant
+Chakur,560546,Tewari,तेवरी,Inhabitant
+Chakur,560547,Tipral,तिप्राळ,Inhabitant
+Chakur,560548,Udaswadi,उदासवाडी,Inhabitant
+Chakur,560549,Vadgaon,वडगाव,Inhabitant
+Chakur,560550,Vaddawadi,वड्डावाडी,Inhabitant
+Chakur,560551,Wagholi,वाघोली,Inhabitant
+Chakur,560552,Wadwal N.,वडवळ ना.,Inhabitant
+Chakur,560553,Yelnor,येलनूर,Inhabitant
+Chakur,560554,Zari b,झरी बु.,Inhabitant
+Deoni,560678,Achegaon,अचेगाव,Inhabitant
+Deoni,560679,Ambanagar,अंबानगर,Inhabitant
+Deoni,560680,Anandwadi,आनंदवाडी,Inhabitant
+Deoni,560681,Bhojwadi,भोजवाडी,Inhabitant
+Deoni,560682,Bonawal,बोनावळ,Inhabitant
+Deoni,560683,Borgaon,बोरगाव,Inhabitant
+Deoni,560684,Chavanवाडी,चव्हाणवाडी,Inhabitant
+Deoni,560685,Chikli,चिखली,Inhabitant
+Deoni,560686,Danknal,दांकनाळ,Inhabitant
+Deoni,560687,Deoni b,देवणी बु.,Inhabitant
+Deoni,560688,Deoni kh,देवणी खु.,Inhabitant
+Deoni,560689,Dhanegaon,धनेगाव,Inhabitant
+Deoni,560690,Dhavlewadi,धोवळेवाडी,Inhabitant
+Deoni,560691,Dongargaon,डोंगरगाव,Inhabitant
+Deoni,560692,Gaikwadवाडी,गायकवाडवाडी,Inhabitant
+Deoni,560693,Girani,गिराणी,Inhabitant
+Deoni,560694,Gojegaon,गोजेगाव,Inhabitant
+Deoni,560695,Gurhal,गूर्हाळ,Inhabitant
+Deoni,560696,Hanmantwadi,हनमंतवाडी,Inhabitant
+Deoni,560697,Heera,हिरा,Inhabitant
+Deoni,560698,Hipperga,हिप्परगा,Inhabitant
+Deoni,560699,Honali,होनळी,Inhabitant
+Deoni,560700,Isamalpur,इसमाळपूर,Inhabitant
+Deoni,560701,Jawali,जवळी,Inhabitant
+Deoni,560702,Kamalwadi,कमळवाडी,Inhabitant
+Deoni,560703,Kamroon nav,कमरूननवा,Inhabitant
+Deoni,560704,Kamroon thot,कमरूनथोट,Inhabitant
+Deoni,560705,Kelewadi,केळेवाडी,Inhabitant
+Deoni,560706,Konali,कोनाळी,Inhabitant
+Deoni,560707,Lavanwadi,लवणवाडी,Inhabitant
+Deoni,560708,Marsangvi,मरसांगवी,Inhabitant
+Deoni,560709,Mhasalwadi,म्हासाळवाडी,Inhabitant
+Deoni,560710,Nagral,नाग्राळ,Inhabitant
+Deoni,560711,Neknal,नेकनाळ,Inhabitant
+Deoni,560712,Pandhri,पांढरी,Inhabitant
+Deoni,560713,Sallgara,साळगरा,Inhabitant
+Deoni,560714,Sangvi,सांगवी,Inhabitant
+Deoni,560715,Savalasur,सावळसूर,Inhabitant
+Deoni,560716,Sayyadpur,सय्यदपूर,Inhabitant
+Deoni,560717,Shindala b,शिंदाळा बु.,Inhabitant
+Deoni,560718,Shindala kh,शिंदाळा खु.,Inhabitant
+Deoni,560719,Shivneri,शिवनेरी,Inhabitant
+Deoni,560720,Takaral,टाकराळ,Inhabitant
+Deoni,560721,Talvegad,ताळवेगड,Inhabitant
+Deoni,560722,Tandulja,तांदुळजा,Inhabitant
+Deoni,560723,Vaddawadi,वड्डावाडी,Inhabitant
+Deoni,560724,Vagdari,वागदरी,Inhabitant
+Deoni,560725,Valkhed,वळखेड,Inhabitant
+Deoni,560726,Valandi,वढवणी,Inhabitant
+Deoni,560727,Viajyanagar,विजयनगर,Inhabitant
+Deoni,560728,Vithalwadi,विठ्ठलवाडी,Inhabitant
+Deoni,560729,Waghnnal,वाघनाळ,Inhabitant
+Deoni,560730,Walndi wadi,वाळंदीवाडी,Inhabitant
+Jalkot,560418,Ashta,आष्टा,Inhabitant
+Jalkot,560555,Atnoor,अतणूर,Inhabitant
+Jalkot,560556,Bhartwadi,भारतवाडी,Inhabitant
+Jalkot,560557,Bhavthanवाडी,भवथानवाडी,Inhabitant
+Jalkot,560558,Bokkangaon,बोकणगाव,Inhabitant
+Jalkot,560559,Chincholi,चिंचोली,Inhabitant
+Jalkot,560560,Dhamangaon,धामणगाव,Inhabitant
+Jalkot,560561,Dhoki,ढोकी,Inhabitant
+Jalkot,560562,Domgavan,डोमगव्हान,Inhabitant
+Jalkot,560563,Eklara,एकलारा,Inhabitant
+Jalkot,560564,Ghadaleवाडी,घादळेवाडी,Inhabitant
+Jalkot,560565,Ghorwadi,घोरवाडी,Inhabitant
+Jalkot,560566,Gonav,गोणाव,Inhabitant
+Jalkot,560567,Haibatpur,हैबतपूर,Inhabitant
+Jalkot,560568,Hallali,हल्लाळी,Inhabitant
+Jalkot,560569,Hipperga b.,हिप्परगा बु.,Inhabitant
+Jalkot,560570,Jagdalwadi,जगदळवाडी,Inhabitant
+Jalkot,560571,Jalkot,जळकोट,Inhabitant
+Jalkot,560572,Jiratwadi,जिरतवाडी,Inhabitant
+Jalkot,560573,Karanji,करंजी,Inhabitant
+Jalkot,560574,Kekatshindala,केकतशिंदाळा,Inhabitant
+Jalkot,560575,Khadki,खडकी,Inhabitant
+Jalkot,560576,Konav,कोणव,Inhabitant
+Jalkot,560577,Kunki,कुणकी,Inhabitant
+Jalkot,560578,Loni,लोणी,Inhabitant
+Jalkot,560579,Marsangvi,मरसांगवी,Inhabitant
+Jalkot,560580,Mavalgaon,मावळगाव,Inhabitant
+Jalkot,560581,Melgaon,मेळगाव,Inhabitant
+Jalkot,560582,Patoda b.,पाटोदा बु.,Inhabitant
+Jalkot,560583,Patoda kh.,पाटोदा खु.,Inhabitant
+Jalkot,560584,Rawankola,रावणकोळा,Inhabitant
+Jalkot,560585,Rui,रुई,Inhabitant
+Jalkot,560586,Saraswatiवाडी,सरस्वतीवाडी,Inhabitant
+Jalkot,560587,Sawargaon,सावरगाव,Inhabitant
+Jalkot,560588,Shelga c.,शेलगाव (चा),Inhabitant
+Jalkot,560589,Shindnav,शिंदनवा,Inhabitant
+Jalkot,560590,Shivapur,शिवापूर,Inhabitant
+Jalkot,560591,Sonwala,सोनवळा,Inhabitant
+Jalkot,560592,Sorga,सोरगा,Inhabitant
+Jalkot,560593,Suhal,सुहाळ,Inhabitant
+Jalkot,560594,Talegaon b.,तळेगाव बु.,Inhabitant
+Jalkot,560595,Tiruka,तिरुका,Inhabitant
+Jalkot,560596,Vaddawadi,वड्डावाडी,Inhabitant
+Jalkot,560597,Wagdhara,वाघधरा,Inhabitant
+Jalkot,560598,Yeldara,येलदरा,Inhabitant
+Jalkot,560599,Yevatmal,यवतमाळ,Inhabitant
+Latur,560594,Talegaon b.,तळेगाव बु.,Inhabitant
+Latur,560600,Akoli,अकोली,Inhabitant
+Latur,560601,Ambajogaiवाडी,आंबाजोगाईवाडी,Inhabitant
+Latur,560602,Arvi,आरवी,Inhabitant
+Latur,560603,Babhalgaon,बाभळगाव,Inhabitant
+Latur,560604,Bale,बाळे,Inhabitant
+Latur,560605,Bamhni,बाम्हणी,Inhabitant
+Latur,560606,Bhadgaon,भादगाव,Inhabitant
+Latur,560607,Bhatangali,भातांगली,Inhabitant
+Latur,560608,Bhatkheda,भातक्युडा,Inhabitant
+Latur,560609,Bhopla,भोपळा,Inhabitant
+Latur,560610,Bori,बोरी,Inhabitant
+Latur,560611,Borgaon b.,बोरगाव बु.,Inhabitant
+Latur,560612,Borgaon kh.,बोरगाव खु.,Inhabitant
+Latur,560613,Borgaon k.,बोरगाव का.,Inhabitant
+Latur,560614,Bori r.,बोरी रा.,Inhabitant
+Latur,560615,Bormalwadi,बोरमाळवाडी,Inhabitant
+Latur,560616,Borwanti,बोरवंती,Inhabitant
+Latur,560617,Budhoda,बुधोडा,Inhabitant
+Latur,560618,Chikhalthana,चिखलठाणा,Inhabitant
+Latur,560619,Chincholi r.,चिंचोली रा.,Inhabitant
+Latur,560620,Chincholi b.,चिंचोली बु.,Inhabitant
+Latur,560621,Chincholirav,चिंचोलीराव,Inhabitant
+Latur,560622,Dakov,डाकोव,Inhabitant
+Latur,560623,Dalnavadi,दळणवाडी,Inhabitant
+Latur,560624,Dhaka,ढाका,Inhabitant
+Latur,560625,Dhanegaon,धनेगाव,Inhabitant
+Latur,560626,Dhoki,ढोकी,Inhabitant
+Latur,560627,Dilalpur,दिलालपूर,Inhabitant
+Latur,560628,Dongargaon,डोंगरगाव,Inhabitant
+Latur,560629,Dongargaon s.,डोंगरगाव शि.,Inhabitant
+Latur,560630,Ekurgi,एकूर्गी,Inhabitant
+Latur,560631,Gabarwadi,गाबरवाडी,Inhabitant
+Latur,560632,Gadhiwad,गाढीवाड,Inhabitant
+Latur,560633,Gondri,गोंद्री,Inhabitant
+Latur,560634,Gungagaon,गुळगा,Inhabitant
+Latur,560635,Harangul b.,हरंगुळ बु.,Inhabitant
+Latur,560636,Harangul kh.,हरंगुळ खु.,Inhabitant
+Latur,560637,Hisamabad,हिसामाबाद,Inhabitant
+Latur,560638,Jamga,जामगा,Inhabitant
+Latur,560639,Jaswandi,जसवंडी,Inhabitant
+Latur,560640,Jeur,जेऊर,Inhabitant
+Latur,560641,Kadamवाडी,कदमवाडी,Inhabitant
+Latur,560642,Kallamb,कळंब,Inhabitant
+Latur,560643,Kallamwadi,कळंबवाडी,Inhabitant
+Latur,560644,Kanadi b.,कनाडी बु.,Inhabitant
+Latur,560645,Kanadi kh.,कनाडी खु.,Inhabitant
+Latur,560646,Khandapur,खांदापूर,Inhabitant
+Latur,560647,Khulgapur,खुलगापूर,Inhabitant
+Latur,560648,Khurdali,खुर्दळी,Inhabitant
+Latur,560649,Kini,किनी,Inhabitant
+Latur,560650,Kava,कावा,Inhabitant
+Latur,944219,Latur,लातूर,Inhabitant
+Latur,560651,Mahada,महाडा,Inhabitant
+Latur,560652,Mahapur,महापूर,Inhabitant
+Latur,560653,Malbegaon,माळबेगाव,Inhabitant
+Latur,560654,Malivati,माळवती,Inhabitant
+Latur,560655,Manjri,मांजरी,Inhabitant
+Latur,560656,Maramga,मरामगा,Inhabitant
+Latur,560657,Mardi,मर्दी,Inhabitant
+Latur,560658,Mhasnal,म्हासनाळ,Inhabitant
+Latur,560659,Murud,मुरुड,Inhabitant
+Latur,560660,Murud akoli,मुरुड अकोली,Inhabitant
+Latur,560661,Muslaj,मुसळाज,Inhabitant
+Latur,560662,Nagjhari,नागझरी,Inhabitant
+Latur,560663,Nandgaon,नांदगाव,Inhabitant
+Latur,560664,Niwada,निवाडा,Inhabitant
+Latur,560665,Pakharsangvi,पाखरसांगवी,Inhabitant
+Latur,560666,Pangri,पांगरी,Inhabitant
+Latur,560667,Pipalgaon,पिंपळगाव,Inhabitant
+Latur,560668,Raiwadi,रायवाडी,Inhabitant
+Latur,560669,Rameshwar,रामेश्वर,Inhabitant
+Latur,560670,Rui,रुई,Inhabitant
+Latur,560671,Salga,साळगा,Inhabitant
+Latur,560672,Samargavan,सामरगव्हान,Inhabitant
+Latur,560673,Sarola,सारोळा,Inhabitant
+Latur,560674,Savareshwar,सावरेेश्वर,Inhabitant
+Latur,560675,Sawargaon,सावरगाव,Inhabitant
+Latur,560676,Scindala thot,शिंदाळाथोट,Inhabitant
+Latur,560677,Scindala nav,शिंदाळानवा,Inhabitant
+Latur,560759,Gharani,घरणी,Inhabitant
+Latur,560837,Sikandarpur,सिकंदरपूर,Inhabitant
+Latur,560838,Sirsa,शिरसा,Inhabitant
+Latur,560839,Sonvati,सोनवती,Inhabitant
+Latur,560840,Taka,ताका,Inhabitant
+Latur,560841,Takali,टाकळी,Inhabitant
+Latur,560842,Tambala,तांबळा,Inhabitant
+Latur,560843,Tandulja,तांदुळजा,Inhabitant
+Latur,560844,Tandulwadi,तांदुळवाडी,Inhabitant
+Latur,560845,Tewari,तेवरी,Inhabitant
+Latur,560846,Ukka,उक्का,Inhabitant
+Latur,560847,Umarvadi,उमरवाडी,Inhabitant
+Latur,560848,Vaddawadi,वड्डावाडी,Inhabitant
+Latur,560849,Vagholi,वाघोली,Inhabitant
+Latur,560850,Vanjarkheda,वाणजारखेडा,Inhabitant
+Latur,560851,Vasangaon,वासणगाव,Inhabitant
+Latur,560852,Vilaspur,विलासपूर,Inhabitant
+Latur,560853,Vithalwadi,विठ्ठलवाडी,Inhabitant
+Latur,560854,Wadi,वाडी,Inhabitant
+Latur,560855,Wagholi,वाघोली,Inhabitant
+Latur,560856,Yavali,यावली,Inhabitant
+Latur,560857,Yelis,येळीस,Inhabitant
+Nilanga,560814,Selu,शेलू,Inhabitant
+Nilanga,560858,Ajaniवाडी,अजनीवाडी,Inhabitant
+Nilanga,560859,Ambanagar,अंबानगर,Inhabitant
+Nilanga,560860,Ambulga m,अंबुळगा मै,Inhabitant
+Nilanga,560861,Ambulga v,अंबुळगा वे,Inhabitant
+Nilanga,560862,Anandwadi,आनंदवाडी,Inhabitant
+Nilanga,560863,Anansvadi,आनंदवाडी,Inhabitant
+Nilanga,560864,Anantwadi,अनंतवाडी,Inhabitant
+Nilanga,560865,Armalwadi,आरमाळवाडी,Inhabitant
+Nilanga,560866,Aurad m,औराद मै,Inhabitant
+Nilanga,560867,Aurad sh,औराद शहाजानी,Inhabitant
+Nilanga,560868,Badur,बामणी,Inhabitant
+Nilanga,560869,Bakalgaon,बकळगाव,Inhabitant
+Nilanga,560870,Bamani,बामणी,Inhabitant
+Nilanga,560871,Bhangarवाडी,भांगरवाडी,Inhabitant
+Nilanga,560872,Bholewadi,भोलेवाडी,Inhabitant
+Nilanga,560873,Bocharga,बोचरगा,Inhabitant
+Nilanga,560874,Bori,बोरी,Inhabitant
+Nilanga,560875,Borgaon b,बोरगाव बु.,Inhabitant
+Nilanga,560876,Borgaon kh,बोरगाव खु.,Inhabitant
+Nilanga,560877,Bormalwadi,बोरमाळवाडी,Inhabitant
+Nilanga,560878,Botkul,बोटकुळ,Inhabitant
+Nilanga,560879,Chalkha,चाळका,Inhabitant
+Nilanga,560880,Chandraवाडी,चंद्रवाडी,Inhabitant
+Nilanga,560881,Chikli,चिखली,Inhabitant
+Nilanga,560882,Chincholi v,चिंचोली वे,Inhabitant
+Nilanga,560883,Chincholi b,चिंचोली बु.,Inhabitant
+Nilanga,560884,Daddawadi,दाद्द्वाडी,Inhabitant
+Nilanga,560885,Dandegaon,दांडेगाव,Inhabitant
+Nilanga,560886,Dapka,दापका,Inhabitant
+Nilanga,560887,Deoni tal,देवणी ता.,Inhabitant
+Nilanga,560888,Deonagar,देवनगर,Inhabitant
+Nilanga,560889,Dhalgavan,धालगव्हाण,Inhabitant
+Nilanga,560890,Dhanegaon,धनेगाव,Inhabitant
+Nilanga,560891,Dighol b,दिघोळ बु.,Inhabitant
+Nilanga,560892,Dighol kh,दिघोळ खु.,Inhabitant
+Nilanga,560893,Dongargaon,डोंगरगाव,Inhabitant
+Nilanga,560894,Dongargaon v,डोंगरगाव वे,Inhabitant
+Nilanga,560895,Fattepur,फत्तेपूर,Inhabitant
+Nilanga,560896,Gadhvada,गाढवडा,Inhabitant
+Nilanga,560897,Gaur,गौंडगाव,Inhabitant
+Nilanga,560898,Gaurwadi,गौंडवाडी,Inhabitant
+Nilanga,560899,Gharani,घरणी,Inhabitant
+Nilanga,560900,Gondri,गोंद्री,Inhabitant
+Nilanga,560901,Gorobaवाडी,गोरोबावाडी,Inhabitant
+Nilanga,560902,Gubal,गुबाळ,Inhabitant
+Nilanga,560903,Hadga,हादगा,Inhabitant
+Nilanga,560904,Hajapur,हाजापूर,Inhabitant
+Nilanga,560905,Hale,हाळे,Inhabitant
+Nilanga,560906,Hanamantwadi,हनमंतवाडी,Inhabitant
+Nilanga,560907,Harijvalga,हरी जवळगा,Inhabitant
+Nilanga,560908,Hasanwadi,हसनवाडी,Inhabitant
+Nilanga,560909,Hasori b,हासोरी बु.,Inhabitant
+Nilanga,560910,Hasori kh,हासोरी खु.,Inhabitant
+Nilanga,560911,Hedgashindala,हेदगाशिंदाळा,Inhabitant
+Nilanga,560912,Hipperga b,हिप्परगा बु.,Inhabitant
+Nilanga,560913,Hipperga s,हिप्परगा श.,Inhabitant
+Nilanga,560914,Hosoor,होसूर,Inhabitant
+Nilanga,560915,Huljanti,हुळजंती,Inhabitant
+Nilanga,560916,Jalkot v,जळकोट वे,Inhabitant
+Nilanga,560917,Jamga,जामगा,Inhabitant
+Nilanga,560918,Jawali,जवळी,Inhabitant
+Nilanga,560919,Jaurवाडी,जौरवाडी,Inhabitant
+Nilanga,560920,Kaddavadi,काडदावाडी,Inhabitant
+Nilanga,560921,Kadeer nav,कादीर नबा,Inhabitant
+Nilanga,560922,Kajala,काजळा,Inhabitant
+Nilanga,560923,Kalgaon,काळगाव,Inhabitant
+Nilanga,560924,Kallamwadi,कळंबवाडी,Inhabitant
+Nilanga,560925,Kamalwadi,कमळवाडी,Inhabitant
+Nilanga,560926,Kamroon thot,कमरूनथोट,Inhabitant
+Nilanga,560927,Kanthi,कांठी,Inhabitant
+Nilanga,560928,Karanja,करंजा,Inhabitant
+Nilanga,560929,Kasarkheda,कासारखेडा,Inhabitant
+Nilanga,560930,Kasarmalkondji,कासारमळकोंडजी,Inhabitant
+Nilanga,560931,Kasarsirsal,कासारशिरसाळ,Inhabitant
+Nilanga,560932,Kategaon,काटेगाव,Inhabitant
+Nilanga,560933,Kedarwadi,केदारवाडी,Inhabitant
+Nilanga,560934,Khed,खेड,Inhabitant
+Nilanga,560935,Kolnoor,कोळनूर,Inhabitant
+Nilanga,560936,Kondjiwadi,कोंडजीवाडी,Inhabitant
+Nilanga,560937,Koraali,कोराळी,Inhabitant
+Nilanga,560938,Korenav,कोरेनावा,Inhabitant
+Nilanga,560939,Korali tal,कोराळी ता.,Inhabitant
+Nilanga,560940,Lamjana,लामजना,Inhabitant
+Nilanga,560941,Lingadhall,लिंगाधळ,Inhabitant
+Nilanga,560942,Madanwadi,मदनवाडी,Inhabitant
+Nilanga,560943,Madansuri,मदनसुरी,Inhabitant
+Nilanga,560944,Mahanandpur,महानंदपूर,Inhabitant
+Nilanga,560945,Maharwadi,महारवाडी,Inhabitant
+Nilanga,560946,Malegaon b,मालेगाव बु.,Inhabitant
+Nilanga,560947,Malegaon kh,मालेगाव खु.,Inhabitant
+Nilanga,560948,Malkondji,मळकोंडजी,Inhabitant
+Nilanga,560949,Maneवाडी,मानेवाडी,Inhabitant
+Nilanga,560950,Mangrul,मांगरूळ,Inhabitant
+Nilanga,560951,Manyali,मान्याळी,Inhabitant
+Nilanga,560952,Masalga,मसलगा,Inhabitant
+Nilanga,560953,Matola,मातोळा,Inhabitant
+Nilanga,560954,Mhasalwadi,म्हासाळवाडी,Inhabitant
+Nilanga,560955,Mirgavan,मिरगव्हान,Inhabitant
+Nilanga,560956,Mogadpur,मोगदपूर,Inhabitant
+Nilanga,560957,Mudgad,मुदगड,Inhabitant
+Nilanga,560958,Mugi,मुगी,Inhabitant
+Nilanga,560959,Mulkhed,मुळखेड,Inhabitant
+Nilanga,560960,Nandurga,नांदुर्गा,Inhabitant
+Nilanga,560961,Nanjari,नांजरी,Inhabitant
+Nilanga,560962,Narwatwadi,नरवटवाडी,Inhabitant
+Nilanga,944220,Nilanga,निलंगा,Inhabitant
+Nilanga,560963,Nimbalkarवाडी,निंबाळकरवाडी,Inhabitant
+Nilanga,560964,Nitin nav,नितीन नवा,Inhabitant
+Nilanga,560965,Omerga,उमरगा,Inhabitant
+Nilanga,560966,Pachchinchi,पाचचिंची,Inhabitant
+Nilanga,560967,Palasgavan,पळसगव्हान,Inhabitant
+Nilanga,560968,Panchgavan,पाचगव्हान,Inhabitant
+Nilanga,560969,Pardhewadi,पारधेवाडी,Inhabitant
+Nilanga,560970,Paritwadi,पारीतवाडी,Inhabitant
+Nilanga,560971,Pimpalga c,पिंपळगाव चा.,Inhabitant
+Nilanga,560972,Pirgavan,पिरगव्हान,Inhabitant
+Nilanga,560973,Rajanwadi,राजनवाडी,Inhabitant
+Nilanga,560974,Ramegaon,रामेगाव,Inhabitant
+Nilanga,560975,Ramwadi,रामवाडी,Inhabitant
+Nilanga,560976,Ratnapur,रत्नापूर,Inhabitant
+Nilanga,560977,Riddiwadi,रिद्धीवाडी,Inhabitant
+Nilanga,560978,Rui,रुई,Inhabitant
+Nilanga,560979,Sakol,साकोळ,Inhabitant
+Nilanga,560980,Sangvi m,सांगवी मै,Inhabitant
+Nilanga,560981,Sarola,सारोळा,Inhabitant
+Nilanga,560982,Savalasur,सावळसूर,Inhabitant
+Nilanga,560983,Sawargaon,सावरगाव,Inhabitant
+Nilanga,560984,Sayyadpur,सय्यदपूर,Inhabitant
+Nilanga,560985,Shahapur,शहापूर,Inhabitant
+Nilanga,560986,Shandol,शेंदोळ,Inhabitant
+Nilanga,560987,Shengav,शेणगाव,Inhabitant
+Nilanga,560988,Shindala v,शिंदाळा वे,Inhabitant
+Nilanga,560989,Shindala kh,शिंदाळा खु.,Inhabitant
+Nilanga,560990,Shindal m,शिंदाळा मै,Inhabitant
+Nilanga,560991,Shiradhon,शिराढोण,Inhabitant
+Nilanga,560992,Shirnal,शिरनाळ,Inhabitant
+Nilanga,560993,Shivneri,शिवनेरी,Inhabitant
+Nilanga,560994,Shivpur,शिवपूर,Inhabitant
+Nilanga,560995,Sindikhadki,सिंदीखडकी,Inhabitant
+Nilanga,560996,Singoli,सिंगोळी,Inhabitant
+Nilanga,560997,Sirsal,शिरसाळ,Inhabitant
+Nilanga,560998,Sombudeवाडी,सोमबुडेवाडी,Inhabitant
+Nilanga,560999,Sonkhed,सोनखेड,Inhabitant
+Nilanga,561000,Sonaवाडी,सोनावाडी,Inhabitant
+Nilanga,561001,Sultanpur,सुल्तानपूर,Inhabitant
+Nilanga,561002,Tagarkheda,टॅगळखेडा,Inhabitant
+Nilanga,561003,Talvegad,ताळवेगड,Inhabitant
+Nilanga,561004,Tambala,तांबळा,Inhabitant
+Nilanga,561005,Tandulja,तांदुळजा,Inhabitant
+Nilanga,561006,Tandulwadi,तांदुळवाडी,Inhabitant
+Nilanga,561007,Teerth,तीर्थ,Inhabitant
+Nilanga,561008,Tulshiram,तुळशीराम,Inhabitant
+Nilanga,561009,Tungi b,तुंगी बु.,Inhabitant
+Nilanga,561010,Uajni,उजनी,Inhabitant
+Nilanga,561011,Umarga v,उमरगा वे,Inhabitant
+Nilanga,561012,Usturi,उस्तुरी,Inhabitant
+Nilanga,561013,Vaddawadi,वड्डावाडी,Inhabitant
+Nilanga,561014,Valandi,वढवणी,Inhabitant
+Nilanga,561015,Valkhed,वळखेड,Inhabitant
+Nilanga,561016,Viajyanagar,विजयनगर,Inhabitant
+Nilanga,561017,Vithalwadi,विठ्ठलवाडी,Inhabitant
+Nilanga,561018,Wadhona,वाढोणा,Inhabitant
+Nilanga,561019,Waghnnal,वाघनाळ,Inhabitant
+Nilanga,561020,Wagholi,वाघोली,Inhabitant
+Nilanga,561021,Waki,वाकी,Inhabitant
+Nilanga,561022,Walndi wadi,वाळंदीवाडी,Inhabitant
+Nilanga,561023,Yakatpur,याकतपूर,Inhabitant
+Nilanga,561024,Zaavari,झावरी,Inhabitant
+Nilanga,561025,Zari m,झरी मै,Inhabitant
+Renapur,560841,Takali,टाकळी,Inhabitant
+Renapur,561026,Agra,आग्रा,Inhabitant
+Renapur,561027,Anandwadi,आनंदवाडी,Inhabitant
+Renapur,561028,Anandwadi b,आनंदवाडी बु,Inhabitant
+Renapur,561029,Anjansoda,अंजनसोंडा,Inhabitant
+Renapur,561030,Arawali,अरवळी,Inhabitant
+Renapur,561031,Ashta,आष्टा,Inhabitant
+Renapur,561032,Babhalgaon,बाभळगाव,Inhabitant
+Renapur,561033,Balkhed,बाळखेड,Inhabitant
+Renapur,561034,Bamhni,बाम्हणी,Inhabitant
+Renapur,561035,Bhadgaon,भादगाव,Inhabitant
+Renapur,561036,Bhatangali,भातांगली,Inhabitant
+Renapur,561037,Bitgaon,बीटगाव,Inhabitant
+Renapur,561038,Bori,बोरी,Inhabitant
+Renapur,561039,Borgaon k,बोरगाव का.,Inhabitant
+Renapur,561040,Bormalwadi,बोरमाळवाडी,Inhabitant
+Renapur,561041,Budhoda,बुधोडा,Inhabitant
+Renapur,561042,Chalkha,चाळका,Inhabitant
+Renapur,561043,Chikhalthana,चिखलठाणा,Inhabitant
+Renapur,561044,Chincholi,चिंचोली,Inhabitant
+Renapur,561045,Dakov,डाकोव,Inhabitant
+Renapur,561046,Darjiwadi,दर्जीवाडी,Inhabitant
+Renapur,561047,Dhaka,ढाका,Inhabitant
+Renapur,561048,Dhanegaon,धनेगाव,Inhabitant
+Renapur,561049,Dhoki,ढोकी,Inhabitant
+Renapur,561050,Digol b.,दिघोळ बु.,Inhabitant
+Renapur,561051,Digol kh.,दिघोळ खु.,Inhabitant
+Renapur,561052,Dongargaon,डोंगरगाव,Inhabitant
+Renapur,561053,Fattepur,फत्तेपूर,Inhabitant
+Renapur,561054,Gadhada,गाढवडा,Inhabitant
+Renapur,561055,Gatwadi,गटवाडी,Inhabitant
+Renapur,561056,Gavan,गव्हाण,Inhabitant
+Renapur,561057,Ghanegaon,घाणेगाव,Inhabitant
+Renapur,561058,Gharani,घरणी,Inhabitant
+Renapur,561059,Gondri,गोंद्री,Inhabitant
+Renapur,561060,Goregaon,गोरेगाव,Inhabitant
+Renapur,561061,Hanmantwadi,हनमंतवाडी,Inhabitant
+Renapur,561062,Harwadi,हारवाडी,Inhabitant
+Renapur,561063,Hipperga,हिप्परगा,Inhabitant
+Renapur,561064,Indrathana,इंद्रठाणा,Inhabitant
+Renapur,561065,Ithe,इथे,Inhabitant
+Renapur,561066,Jailas,जयलास,Inhabitant
+Renapur,561067,Jamga,जामगा,Inhabitant
+Renapur,561068,Kalamwadi,कळंबवाडी,Inhabitant
+Renapur,561069,Kamalwadi,कमळवाडी,Inhabitant
+Renapur,561070,Kandgavan,कंदगव्हान,Inhabitant
+Renapur,561071,Karanja,करंजा,Inhabitant
+Renapur,561072,Karkatta,करकट्टा,Inhabitant
+Renapur,561073,Kasarjawga,कासारजवळगा,Inhabitant
+Renapur,561074,Katarwadi,कातारवाडी,Inhabitant
+Renapur,561075,Kava,कावा,Inhabitant
+Renapur,561076,Khamgaon,खामगाव,Inhabitant
+Renapur,561077,Kombali,कोंबळी,Inhabitant
+Renapur,561078,Lakhamapur,लखमापूर,Inhabitant
+Renapur,561079,Motiwadi,मोतीवाडी,Inhabitant
+Renapur,561080,Malkapur,मल्कापूर,Inhabitant
+Renapur,561081,Maneवाडी,मानेवाडी,Inhabitant
+Renapur,561082,Mangrul,मांगरूळ,Inhabitant
+Renapur,561083,Mardi,मर्दी,Inhabitant
+Renapur,561084,Mhasnal,म्हासनाळ,Inhabitant
+Renapur,561085,Morewadi,मोरेवाडी,Inhabitant
+Renapur,561086,Motegaon,मोटेगाव,Inhabitant
+Renapur,561087,Murud akoli,मुरुड अकोली,Inhabitant
+Renapur,561088,Muslaj,मुसळाज,Inhabitant
+Renapur,561089,Nagझरी,नागझरी,Inhabitant
+Renapur,561090,Nandgaon,नांदगाव,Inhabitant
+Renapur,561091,Niwada,निवाडा,Inhabitant
+Renapur,561092,Pangri,पांगरी,Inhabitant
+Renapur,561093,Pathwalwadi,पाथवालवाडी,Inhabitant
+Renapur,561094,Patoda,पाटोदा,Inhabitant
+Renapur,561095,Phandwadi,फांडवाडी,Inhabitant
+Renapur,561096,Pipalgaon,पिंपळगाव,Inhabitant
+Renapur,561097,Pohregaon,पोहरेगाव,Inhabitant
+Renapur,561098,Rajeवाडी,राजेवाडी,Inhabitant
+Renapur,561099,Ramegaon,रामेगाव,Inhabitant
+Renapur,561100,Ramegaon b.,रामेगाव बु.,Inhabitant
+Renapur,944221,Renapur,रेणापूर,Inhabitant
+Renapur,561101,Rui,रुई,Inhabitant
+Renapur,561102,Sallgara,साळगरा,Inhabitant
+Renapur,561103,Samargavan,सामरगव्हान,Inhabitant
+Renapur,561104,Sangvi,सांगवी,Inhabitant
+Renapur,561105,Sansoli,सांसोळी,Inhabitant
+Renapur,561106,Sarola,सारोळा,Inhabitant
+Renapur,561107,Savareshwar,सावरेेश्वर,Inhabitant
+Renapur,561108,Sawargaon,सावरगाव,Inhabitant
+Renapur,561109,Scindala nav,शिंदाळानवा,Inhabitant
+Renapur,561110,Scindala thot,शिंदाळाथोट,Inhabitant
+Renapur,561111,Sevalal,सेवालाल,Inhabitant
+Renapur,561112,Shera,शेरा,Inhabitant
+Renapur,561113,Sindgaon,सिंदगाव,Inhabitant
+Renapur,561114,Somnathpur,सोमनाथपूर,Inhabitant
+Renapur,561115,Sonaवाडी,सोनावाडी,Inhabitant
+Renapur,561116,Talegaon b.,तळेगाव बु.,Inhabitant
+Renapur,561117,Talegaon kh.,तळेगाव खु.,Inhabitant
+Renapur,561118,Tandulja,तांदुळजा,Inhabitant
+Renapur,561119,Tandulwadi,तांदुळवाडी,Inhabitant
+Renapur,561120,Tatapur,तातापूर,Inhabitant
+Renapur,561121,Vanjarwadi,वांजर्वाडी,Inhabitant
+Renapur,561122,Vaddawadi,वड्डावाडी,Inhabitant
+Renapur,561123,Vagholi,वाघोली,Inhabitant
+Renapur,561124,Vasangaon,वासणगाव,Inhabitant
+Renapur,561125,Vithalwadi,विठ्ठलवाडी,Inhabitant
+Renapur,561126,Wadi,वाडी,Inhabitant
+Renapur,561127,Wagholi m.,वाघोली म.,Inhabitant
+Renapur,561128,Waki,वाकी,Inhabitant
+Renapur,561129,Yavali,यावली,Inhabitant
+Renapur,561130,Yelis,येळीस,Inhabitant
+Shirur Anantpal,560541,Shirnal,शिरनाळ,Inhabitant
+Shirur Anantpal,560678,Achegaon,अचेगाव,Inhabitant
+Shirur Anantpal,561131,Algapur,अळगापूर,Inhabitant
+Shirur Anantpal,561132,Anandwadi,आनंदवाडी,Inhabitant
+Shirur Anantpal,561133,Anandwadi b,आनंदवाडी बु,Inhabitant
+Shirur Anantpal,561134,Anansvadi,आनंदवाडी,Inhabitant
+Shirur Anantpal,561135,Atnoor,अतणूर,Inhabitant
+Shirur Anantpal,561136,Bakliwadi,बाकलीवाडी,Inhabitant
+Shirur Anantpal,561137,Bhavthanवाडी,भवथानवाडी,Inhabitant
+Shirur Anantpal,561138,Bhojwadi,भोजवाडी,Inhabitant
+Shirur Anantpal,561139,Bolarwadi,बोळारवाडी,Inhabitant
+Shirur Anantpal,561140,Bori,बोरी,Inhabitant
+Shirur Anantpal,561141,Borgaon,बोरगाव,Inhabitant
+Shirur Anantpal,561142,Calavadi,चाळवाडी,Inhabitant
+Shirur Anantpal,561143,Chavanवाडी,चव्हाणवाडी,Inhabitant
+Shirur Anantpal,561144,Chikli,चिखली,Inhabitant
+Shirur Anantpal,561145,Dabka,दाबका,Inhabitant
+Shirur Anantpal,561146,Daithna,दैठणा,Inhabitant
+Shirur Anantpal,561147,Danknal,दांकनाळ,Inhabitant
+Shirur Anantpal,561148,Deonagarवाडी,देवनगरवाडी,Inhabitant
+Shirur Anantpal,561149,Deowadi,देववाडी,Inhabitant
+Shirur Anantpal,561150,Dhaga,धागा,Inhabitant
+Shirur Anantpal,561151,Dhanegaon,धनेगाव,Inhabitant
+Shirur Anantpal,561152,Dhavlewadi,धोवळेवाडी,Inhabitant
+Shirur Anantpal,561153,Dongargaon,डोंगरगाव,Inhabitant
+Shirur Anantpal,561154,Gaikwadवाडी,गायकवाडवाडी,Inhabitant
+Shirur Anantpal,561155,Ganjankheda,गांजनखेडा,Inhabitant
+Shirur Anantpal,561156,Girani,गिराणी,Inhabitant
+Shirur Anantpal,561157,Gharani,घरणी,Inhabitant
+Shirur Anantpal,561158,Gojegaon,गोजेगाव,Inhabitant
+Shirur Anantpal,561159,Gurhal,गूर्हाळ,Inhabitant
+Shirur Anantpal,561160,Hanmantwadi,हनमंतवाडी,Inhabitant
+Shirur Anantpal,561161,Heera,हिरा,Inhabitant
+Shirur Anantpal,561162,Hipperga,हिप्परगा,Inhabitant
+Shirur Anantpal,561163,Holi,होळी,Inhabitant
+Shirur Anantpal,561164,Honali,होनळी,Inhabitant
+Shirur Anantpal,561165,Hanamantwadi,हनमंतवाडी,Inhabitant
+Shirur Anantpal,561166,Isamalpur,इसमाळपूर,Inhabitant
+Shirur Anantpal,561167,Janwal,जाणवळ,Inhabitant
+Shirur Anantpal,561168,Jawali,जवळी,Inhabitant
+Shirur Anantpal,561169,Kamalwadi,कमळवाडी,Inhabitant
+Shirur Anantpal,561170,Kamroon nav,कमरूननवा,Inhabitant
+Shirur Anantpal,561171,Kamroon thot,कमरूनथोट,Inhabitant
+Shirur Anantpal,561172,Kari,कारी,Inhabitant
+Shirur Anantpal,561173,Kasarkheda,कासारखेडा,Inhabitant
+Shirur Anantpal,561174,Kati,काटी,Inhabitant
+Shirur Anantpal,561175,Kawalgaon,कवळगाव,Inhabitant
+Shirur Anantpal,561176,Kelewadi,केळेवाडी,Inhabitant
+Shirur Anantpal,561177,Konali,कोनाळी,Inhabitant
+Shirur Anantpal,561178,Lavanwadi,लवणवाडी,Inhabitant
+Shirur Anantpal,561179,Laturwadi,लातूरवाडी,Inhabitant
+Shirur Anantpal,561180,Marsangvi,मरसांगवी,Inhabitant
+Shirur Anantpal,561181,Mhasalwadi,म्हासाळवाडी,Inhabitant
+Shirur Anantpal,561182,Mohnal,मोहनळ,Inhabitant
+Shirur Anantpal,561183,Nagral,नाग्राळ,Inhabitant
+Shirur Anantpal,561184,Neknal,नेकनाळ,Inhabitant
+Shirur Anantpal,561185,Pandhri,पांढरी,Inhabitant
+Shirur Anantpal,561186,Pargaon,पारगाव,Inhabitant
+Shirur Anantpal,561187,Patoda,पाटोदा,Inhabitant
+Shirur Anantpal,561188,Patoda r,पाटोदा (रा), Inhabitant
+Shirur Anantpal,561189,Ramegaon,रामेगाव,Inhabitant
+Shirur Anantpal,561190,Rana,राणा,Inhabitant
+Shirur Anantpal,561191,Rui,रुई,Inhabitant
+Shirur Anantpal,561192,Sallgara,साळगरा,Inhabitant
+Shirur Anantpal,561193,Sangvi,सांगवी,Inhabitant
+Shirur Anantpal,561194,Savalasur,सावळसूर,Inhabitant
+Shirur Anantpal,561195,Sawargaon,सावरगाव,Inhabitant
+Shirur Anantpal,561196,Sayyadpur,सय्यदपूर,Inhabitant
+Shirur Anantpal,561197,Shindala b,शिंदाळा बु.,Inhabitant
+Shirur Anantpal,561198,Shindala kh,शिंदाळा खु.,Inhabitant
+Shirur Anantpal,561199,Shirur a,शिरूर अनंतपाळ,Inhabitant
+Shirur Anantpal,561200,Shivneri,शिवनेरी,Inhabitant
+Shirur Anantpal,561201,Takalgaon,टाकळगाव,Inhabitant
+Shirur Anantpal,561202,Takaral,टाकराळ,Inhabitant
+Shirur Anantpal,561203,Talvegad,ताळवेगड,Inhabitant
+Shirur Anantpal,561204,Tandulja,तांदुळजा,Inhabitant
+Shirur Anantpal,561205,Tipral,तिप्राळ,Inhabitant
+Shirur Anantpal,561206,Vaddawadi,वड्डावाडी,Inhabitant
+Shirur Anantpal,561207,Vagdari,वागदरी,Inhabitant
+Shirur Anantpal,561208,Valkhed,वळखेड,Inhabitant
+Shirur Anantpal,561209,Valandi,वढवणी,Inhabitant
+Shirur Anantpal,561210,Viajyanagar,विजयनगर,Inhabitant
+Shirur Anantpal,561211,Vithalwadi,विठ्ठलवाडी,Inhabitant
+Shirur Anantpal,561212,Waghnnal,वाघनाळ,Inhabitant
+Shirur Anantpal,561213,Walndi wadi,वाळंदीवाडी,Inhabitant
+Shirur Anantpal,561214,Yelnor,येलनूर,Inhabitant
+Udgir,560554,Zari b,झरी बु.,Inhabitant
+Udgir,560555,Atnoor,अतणूर,Inhabitant
+Udgir,560557,Bhavthanवाडी,भवथानवाडी,Inhabitant
+Udgir,560679,Ambanagar,अंबानगर,Inhabitant
+Udgir,560680,Anandwadi,आनंदवाडी,Inhabitant
+Udgir,560681,Bhojwadi,भोजवाडी,Inhabitant
+Udgir,560685,Chikli,चिखली,Inhabitant
+Udgir,560686,Danknal,दांकनाळ,Inhabitant
+Udgir,560689,Dhanegaon,धनेगाव,Inhabitant
+Udgir,560690,Dhavlewadi,धोवळेवाडी,Inhabitant
+Udgir,560691,Dongargaon,डोंगरगाव,Inhabitant
+Udgir,560692,Gaikwadवाडी,गायकवाडवाडी,Inhabitant
+Udgir,560693,Girani,गिराणी,Inhabitant
+Udgir,560695,Gurhal,गूर्हाळ,Inhabitant
+Udgir,560696,Hanmantwadi,हनमंतवाडी,Inhabitant
+Udgir,560697,Heera,हिरा,Inhabitant
+Udgir,560698,Hipperga,हिप्परगा,Inhabitant
+Udgir,560699,Honali,होनळी,Inhabitant
+Udgir,560700,Isamalpur,इसमाळपूर,Inhabitant
+Udgir,560701,Jawali,जवळी,Inhabitant
+Udgir,560702,Kamalwadi,कमळवाडी,Inhabitant
+Udgir,560703,Kamroon nav,कमरूननवा,Inhabitant
+Udgir,560704,Kamroon thot,कमरूनथोट,Inhabitant
+Udgir,560705,Kelewadi,केळेवाडी,Inhabitant
+Udgir,560706,Konali,कोनाळी,Inhabitant
+Udgir,560707,Lavanwadi,लवणवाडी,Inhabitant
+Udgir,560708,Marsangvi,मरसांगवी,Inhabitant
+Udgir,560709,Mhasalwadi,म्हासाळवाडी,Inhabitant
+Udgir,560710,Nagral,नाग्राळ,Inhabitant
+Udgir,560711,Neknal,नेकनाळ,Inhabitant
+Udgir,560712,Pandhri,पांढरी,Inhabitant
+Udgir,560713,Sallgara,साळगरा,Inhabitant
+Udgir,560714,Sangvi,सांगवी,Inhabitant
+Udgir,560715,Savalasur,सावळसूर,Inhabitant
+Udgir,560716,Sayyadpur,सय्यदपूर,Inhabitant
+Udgir,560717,Shindala b,शिंदाळा बु.,Inhabitant
+Udgir,560718,Shindala kh,शिंदाळा खु.,Inhabitant
+Udgir,560719,Shivneri,शिवनेरी,Inhabitant
+Udgir,560720,Takaral,टाकराळ,Inhabitant
+Udgir,560721,Talvegad,ताळवेगड,Inhabitant
+Udgir,560722,Tandulja,तांदुळजा,Inhabitant
+Udgir,560723,Vaddawadi,वड्डावाडी,Inhabitant
+Udgir,560724,Vagdari,वागदरी,Inhabitant
+Udgir,560725,Valkhed,वळखედ,Inhabitant
+Udgir,560726,Valandi,वढवणी,Inhabitant
+Udgir,560727,Viajyanagar,विजयनगर,Inhabitant
+Udgir,560728,Vithalwadi,विठ्ठलवाडी,Inhabitant
+Udgir,560729,Waghnnal,वाघनाळ,Inhabitant
+Udgir,560730,Walndi wadi,वाळंदीवाडी,Inhabitant
+Udgir,561215,Achegaon b,अचेगाव बु,Inhabitant
+Udgir,561216,Achegaon kh,अचेगाव खु,Inhabitant
+Udgir,561217,Algapur,अळगापूर,Inhabitant
+Udgir,561218,Amti b,आमती बु.,Inhabitant
+Udgir,561219,Amti kh,आमती खु.,Inhabitant
+Udgir,561220,AnandNavadi,आनंदवाडी,Inhabitant
+Udgir,561221,Arasnnal,अरासनाळ,Inhabitant
+Udgir,561222,Awalkonda,अवळकोंडा,Inhabitant
+Udgir,561223,Balkhed,बाळखेड,Inhabitant
+Udgir,561224,Bambol,बंबोळ,Inhabitant
+Udgir,561225,Banegaon,बाणेगाव,Inhabitant
+Udgir,561226,Bhakaskheda,भाकसखेडा,Inhabitant
+Udgir,561227,Bhesadarwadi,भेसदारवाडी,Inhabitant
+Udgir,561228,Borgaon,बोरगाव,Inhabitant
+Udgir,561229,Bormalwadi,बोरमाळवाडी,Inhabitant
+Udgir,561230,Borol,बोरोळ,Inhabitant
+Udgir,561231,Chalkha,चाळका,Inhabitant
+Udgir,561232,Chamtnal,चामतनाळ,Inhabitant
+Udgir,561233,Chandegaon,चांदेगाव,Inhabitant
+Udgir,561234,Chincholi,चिंचोली,Inhabitant
+Udgir,561235,Dahifalkhed,दहीफळखेडी,Inhabitant
+Udgir,561236,Deowadi,देववाडी,Inhabitant
+Udgir,561237,Dhaga,धागा,Inhabitant
+Udgir,561238,Dhoki,ढोकी,Inhabitant
+Udgir,561239,Digol,दिघोळ,Inhabitant
+Udgir,561240,Dongraj,डोंगराज,Inhabitant
+Udgir,561241,Ekamba,एकंबा,Inhabitant
+Udgir,561242,Eklara,एकलारा,Inhabitant
+Udgir,561243,Gadhada,गाढवडा,Inhabitant
+Udgir,561244,Ganjankheda,गांजनखेडा,Inhabitant
+Udgir,561245,Ganesh Wadi,गणेशवाडी,Inhabitant
+Udgir,561246,Gavhan,गव्हाण,Inhabitant
+Udgir,561247,Ghorwadi,घोरवाडी,Inhabitant
+Udgir,561248,Gondri,गोंद्री,Inhabitant
+Udgir,561249,Goodemala,गुडेमाळा,Inhabitant
+Udgir,561250,Gorewadi,गोरेवाडी,Inhabitant
+Udgir,561251,Gurdhall,गुर्डाळ,Inhabitant
+Udgir,561252,Haknakwadi,हाकनाकवाडी,Inhabitant
+Udgir,561253,Hallali,हल्लाळी,Inhabitant
+Udgir,561254,Hatkarwadi,हटकरवाडी,Inhabitant
+Udgir,561255,Hipperga,हिप्परगा,Inhabitant
+Udgir,561256,Holi,होळी,Inhabitant
+Udgir,561257,Hulkhed,हुळखेड,Inhabitant
+Udgir,561258,Injanwadi,इंजनवाडी,Inhabitant
+Udgir,561259,Jahangirpur,जहांगीरपूर,Inhabitant
+Udgir,561260,Janwal,जाणवळ,Inhabitant
+Udgir,561261,Kadavadi,काडावाडी,Inhabitant
+Udgir,561262,Kaddavadi,काडदावाडी,Inhabitant
+Udgir,561263,Kajala,काजळा,Inhabitant
+Udgir,561264,Kalga,काळगा,Inhabitant
+Udgir,561265,Kallikhadki,कल्लीखडकी,Inhabitant
+Udgir,561266,Karalga,करळगा,Inhabitant
+Udgir,561267,Kasarkheda,कासारखेडा,Inhabitant
+Udgir,561268,Kati,काटी,Inhabitant
+Udgir,561269,Kawalgaon,कवळगाव,Inhabitant
+Udgir,561270,Kendre Wadi,केंद्रेवाडी,Inhabitant
+Udgir,561271,Khadki,खडकी,Inhabitant
+Udgir,561272,Khanapur,खानापूर,Inhabitant
+Udgir,561273,Kinikadu,किनीकडू,Inhabitant
+Udgir,561274,Kodal,कोदळ,Inhabitant
+Udgir,561275,Kompali,कोंपळी,Inhabitant
+Udgir,561276,Kopra,कोपरा,Inhabitant
+Udgir,561277,Kumarda,कुमार्डा,Inhabitant
+Udgir,561278,Kumtha,कुमठा,Inhabitant
+Udgir,561279,Limbalwadi,लिंबाळवाडी,Inhabitant
+Udgir,561280,Loni,लोणी,Inhabitant
+Udgir,561281,Mahadupur,महादुपूर,Inhabitant
+Udgir,561282,Makarwadi,मकरवाडी,Inhabitant
+Udgir,561283,Malapur,माळापूर,Inhabitant
+Udgir,561284,Malegaon,मालेगाव,Inhabitant
+Udgir,561285,Malkapur,मल्कापूर,Inhabitant
+Udgir,561286,Mandoal,मन्डोळ,Inhabitant
+Udgir,561287,Mardi,मर्दी,Inhabitant
+Udgir,561288,Masalga,मसलगा,Inhabitant
+Udgir,561289,Mhasalwadi,म्हासाळवाडी,Inhabitant
+Udgir,561290,Mogha,मोघा,Inhabitant
+Udgir,561291,Mohnal,मोहनळ,Inhabitant
+Udgir,561292,Morambi,मोरांबी,Inhabitant
+Udgir,561293,Nageshwadi,नागेशवाडी,Inhabitant
+Udgir,561294,Nandgaon,नांदगाव,Inhabitant
+Udgir,561295,Nandura,नांदुरा,Inhabitant
+Udgir,561296,Nava,नवा,Inhabitant
+Udgir,561297,Navandi,नवांदी,Inhabitant
+Udgir,561298,Netragaon,नेत्रगाव,Inhabitant
+Udgir,561299,Pargaon,पारगाव,Inhabitant
+Udgir,561300,Patoda,पाटोदा,Inhabitant
+Udgir,561301,Pedgaon,पेडगाव,Inhabitant
+Udgir,561302,Pimpalgaon,पिंपळगाव,Inhabitant
+Udgir,561303,Ramegaon,रामेगाव,Inhabitant
+Udgir,561304,Rana,राणा,Inhabitant
+Udgir,561305,Rawankola,रावणकोळा,Inhabitant
+Udgir,561306,Rohanwadi,रोहणवाडी,Inhabitant
+Udgir,561307,Rudrawadi,रुद्रवाडी,Inhabitant
+Udgir,561308,Rui,रुई,Inhabitant
+Udgir,561309,Sallgara,साळगरा,Inhabitant
+Udgir,561310,Sangvi,सांगवी,Inhabitant
+Udgir,561311,Satala,सताळा,Inhabitant
+Udgir,561312,Sawargaon,सावरगाव,Inhabitant
+Udgir,561313,Scindala thot,शिंदाळाथोट,Inhabitant
+Udgir,561314,Shandol,शेंदोळ,Inhabitant
+Udgir,561315,Shelgaon,शेलगाव,Inhabitant
+Udgir,561316,Shindnav,शिंदनवा,Inhabitant
+Udgir,561317,Sirnal,शिरनाळ,Inhabitant
+Udgir,561318,Shivpur,शिवपूर,Inhabitant
+Udgir,561319,Somnathpur,सोमनाथपूर,Inhabitant
+Udgir,561320,Sugav,सुगाव,Inhabitant
+Udgir,561321,Sukani,सुकाणी,Inhabitant
+Udgir,561322,Takalgaon,टाकळगाव,Inhabitant
+Udgir,561323,Tandulwadi,तांदुळवाडी,Inhabitant
+Udgir,561324,Tewari,तेवरी,Inhabitant
+Udgir,561325,Thorgavan,थोरगव्हाण,Inhabitant
+Udgir,561326,Tiruka,तिरुका,Inhabitant
+Udgir,561327,Udgir,उदगीर,Inhabitant
+Udgir,561328,Vadgaon,वडगाव,Inhabitant
+Udgir,561329,Vaddawadi,वड्डावाडी,Inhabitant
+Udgir,561330,Wagdhara,वाघधरा,Inhabitant
+Udgir,561331,Wagholi,वाघोली,Inhabitant
+Udgir,561332,Wadwal N.,वडवळ ना.,Inhabitant
+Udgir,561333,Yeldara,येलदरा,Inhabitant
+Udgir,561334,Yellnor,येलनूर
